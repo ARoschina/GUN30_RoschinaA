@@ -1,0 +1,15 @@
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\bin\Debug\net8.0\Homework2.exe
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\bin\Debug\net8.0\Homework2.deps.json
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\bin\Debug\net8.0\Homework2.runtimeconfig.json
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\bin\Debug\net8.0\Homework2.dll
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\bin\Debug\net8.0\Homework2.pdb
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2.AssemblyInfoInputs.cache
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2.AssemblyInfo.cs
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2.csproj.CoreCompileInputs.cache
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2.sourcelink.json
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2.dll
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\refint\Homework2.dll
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2.pdb
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2.genruntimeconfig.cache
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\ref\Homework2.dll

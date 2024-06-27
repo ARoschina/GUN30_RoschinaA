@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB381AAE-3FBA-4AFA-813F-13C78FE5272D}|..\\Homework2\\Homework2.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Homework2\\Program.cs",
+              "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework2\\Program.cs",
+              "RelativeToolTip": "..\\Homework2\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwFwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:41:08.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
