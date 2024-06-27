@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{19F445FB-EE5F-48D4-A5C3-93C5B4ED7A8B}|..\\Homework3 Cycles\\Homework3 Cycles.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework3 cycles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB381AAE-3FBA-4AFA-813F-13C78FE5272D}|..\\Homework2\\Homework2.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,11 +22,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework3 Cycles\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Homework3 Cycles\\Program.cs",
+              "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework3 Cycles\\Program.cs",
+              "RelativeToolTip": "..\\Homework3 Cycles\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwEYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:39:32.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Homework2\\Program.cs",
               "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework2\\Program.cs",
               "RelativeToolTip": "..\\Homework2\\Program.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAgwFwAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T07:41:08.83Z",
               "EditorCaption": ""

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework\\Homework1 Calculator.csproj",
-      "projectName": "Homework1 Calculator",
-      "projectPath": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework\\Homework1 Calculator.csproj",
+      "projectUniqueName": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework3 Cycles\\Homework3 Cycles.csproj",
+      "projectName": "Homework3 Cycles",
+      "projectPath": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework3 Cycles\\Homework3 Cycles.csproj",
       "packagesPath": "C:\\Users\\Stacy\\.nuget\\packages\\",
-      "outputPath": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework\\obj\\",
+      "outputPath": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework3 Cycles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stacy\\AppData\\Roaming\\NuGet\\NuGet.Config",

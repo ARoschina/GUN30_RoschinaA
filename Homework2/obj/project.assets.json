@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework2\\Homework2.csproj",
-      "projectName": "Homework2",
-      "projectPath": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework2\\Homework2.csproj",
+      "projectUniqueName": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework2\\Homework2 Arrays.csproj",
+      "projectName": "Homework2 Arrays",
+      "projectPath": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework2\\Homework2 Arrays.csproj",
       "packagesPath": "C:\\Users\\Stacy\\.nuget\\packages\\",
       "outputPath": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework2\\obj\\",
       "projectStyle": "PackageReference",
