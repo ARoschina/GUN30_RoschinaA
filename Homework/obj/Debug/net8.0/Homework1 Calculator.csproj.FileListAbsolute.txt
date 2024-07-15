@@ -1,0 +1,15 @@
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\bin\Debug\net8.0\Homework1 Calculator.exe
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\bin\Debug\net8.0\Homework1 Calculator.deps.json
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\bin\Debug\net8.0\Homework1 Calculator.runtimeconfig.json
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\bin\Debug\net8.0\Homework1 Calculator.dll
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\bin\Debug\net8.0\Homework1 Calculator.pdb
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\obj\Debug\net8.0\Homework1 Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\obj\Debug\net8.0\Homework1 Calculator.AssemblyInfoInputs.cache
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\obj\Debug\net8.0\Homework1 Calculator.AssemblyInfo.cs
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\obj\Debug\net8.0\Homework1 Calculator.csproj.CoreCompileInputs.cache
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\obj\Debug\net8.0\Homework1 Calculator.sourcelink.json
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\obj\Debug\net8.0\Homework1 Calculator.dll
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\obj\Debug\net8.0\refint\Homework1 Calculator.dll
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\obj\Debug\net8.0\Homework1 Calculator.pdb
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\obj\Debug\net8.0\Homework1 Calculator.genruntimeconfig.cache
+D:\Neto\C# Course\GUN30_RoschinaA\Homework\obj\Debug\net8.0\ref\Homework1 Calculator.dll

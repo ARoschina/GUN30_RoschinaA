@@ -1,0 +1,15 @@
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\bin\Debug\net8.0\Homework2 Arrays.exe
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\bin\Debug\net8.0\Homework2 Arrays.deps.json
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\bin\Debug\net8.0\Homework2 Arrays.runtimeconfig.json
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\bin\Debug\net8.0\Homework2 Arrays.dll
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\bin\Debug\net8.0\Homework2 Arrays.pdb
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2 Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2 Arrays.AssemblyInfoInputs.cache
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2 Arrays.AssemblyInfo.cs
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2 Arrays.csproj.CoreCompileInputs.cache
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2 Arrays.sourcelink.json
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2 Arrays.dll
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\refint\Homework2 Arrays.dll
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2 Arrays.pdb
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\Homework2 Arrays.genruntimeconfig.cache
+D:\Neto\C# Course\GUN30_RoschinaA\Homework2\obj\Debug\net8.0\ref\Homework2 Arrays.dll

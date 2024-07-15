@@ -1,7 +1,4 @@
-﻿using System.Reflection;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
-class Program
+﻿class Program
 {
     static void Main(string[] args)
     {

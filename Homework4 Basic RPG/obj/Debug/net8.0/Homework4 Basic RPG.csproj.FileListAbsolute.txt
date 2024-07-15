@@ -1,0 +1,15 @@
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\obj\Debug\net8.0\Homework4 Basic RPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\obj\Debug\net8.0\Homework4 Basic RPG.AssemblyInfoInputs.cache
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\obj\Debug\net8.0\Homework4 Basic RPG.AssemblyInfo.cs
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\obj\Debug\net8.0\Homework4 Basic RPG.csproj.CoreCompileInputs.cache
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\obj\Debug\net8.0\Homework4 Basic RPG.sourcelink.json
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\bin\Debug\net8.0\Homework4 Basic RPG.exe
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\bin\Debug\net8.0\Homework4 Basic RPG.deps.json
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\bin\Debug\net8.0\Homework4 Basic RPG.runtimeconfig.json
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\bin\Debug\net8.0\Homework4 Basic RPG.dll
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\bin\Debug\net8.0\Homework4 Basic RPG.pdb
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\obj\Debug\net8.0\Homework4 Basic RPG.dll
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\obj\Debug\net8.0\refint\Homework4 Basic RPG.dll
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\obj\Debug\net8.0\Homework4 Basic RPG.pdb
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\obj\Debug\net8.0\Homework4 Basic RPG.genruntimeconfig.cache
+D:\Neto\C# Course\GUN30_RoschinaA\Homework4 Basic RPG\obj\Debug\net8.0\ref\Homework4 Basic RPG.dll

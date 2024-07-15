@@ -3,10 +3,13 @@
   "WorkspaceRootPath": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19F445FB-EE5F-48D4-A5C3-93C5B4ED7A8B}|..\\Homework3 Cycles\\Homework3 Cycles.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework3 cycles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46A2463C-8E85-4543-A9D0-B0AC7CA830BC}|..\\Homework4 Basic RPG\\Homework4 Basic RPG.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework4 basic rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB381AAE-3FBA-4AFA-813F-13C78FE5272D}|..\\Homework2\\Homework2.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46A2463C-8E85-4543-A9D0-B0AC7CA830BC}|..\\Homework4 Basic RPG\\Homework4 Basic RPG.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework4 basic rpg\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A2463C-8E85-4543-A9D0-B0AC7CA830BC}|..\\Homework4 Basic RPG\\Homework4 Basic RPG.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework4 basic rpg\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,32 +19,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework3 Cycles\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Homework3 Cycles\\Program.cs",
-              "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework3 Cycles\\Program.cs",
-              "RelativeToolTip": "..\\Homework3 Cycles\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAgwEYAAAAFAAAA",
+              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Homework4 Basic RPG\\Program.cs",
+              "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Program.cs",
+              "RelativeToolTip": "..\\Homework4 Basic RPG\\Program.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAwNgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:39:32.269Z",
+              "WhenOpened": "2024-07-15T11:21:01.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Armor.cs",
+              "RelativeDocumentMoniker": "..\\Homework4 Basic RPG\\Armor.cs",
+              "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Armor.cs",
+              "RelativeToolTip": "..\\Homework4 Basic RPG\\Armor.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAADwv2UAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:34:00.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Homework2\\Program.cs",
-              "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework2\\Program.cs",
-              "RelativeToolTip": "..\\Homework2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Weapon.cs",
+              "RelativeDocumentMoniker": "..\\Homework4 Basic RPG\\Weapon.cs",
+              "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Weapon.cs",
+              "RelativeToolTip": "..\\Homework4 Basic RPG\\Weapon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T07:41:08.83Z",
+              "WhenOpened": "2024-07-15T11:20:08.276Z",
               "EditorCaption": ""
             }
           ]
