@@ -3,19 +3,30 @@ namespace Homework4_Basic_RPG
 {
     public class Weapon
     {
-        public string name;
+        public string Name 
+        { 
+            get; 
+            private set; 
+        }
         public float minDamage;
         public float maxDamage;
         public float damage;
 
-        public Weapon()
+        public Weapon(string name)
         {
-            name = "Weapon1";            
+            Name = name;            
         }
 
         public Weapon(string name, float minDamage, float maxDamage)
         {
-            this.name = name;
+            this.Name = name;
+            this.minDamage = minDamage;
+            this.maxDamage = maxDamage;
+            SetDamageParams(this.minDamage, this.maxDamage);
+        }
+        public Weapon(float minDamage, float maxDamage)
+        {
+            this.Name = "Unnamed weapon";
             this.minDamage = minDamage;
             this.maxDamage = maxDamage;
             SetDamageParams(this.minDamage, this.maxDamage);
@@ -26,7 +37,7 @@ namespace Homework4_Basic_RPG
             if (minDamage > maxDamage)
             {
                 (minDamage, maxDamage) = (maxDamage, minDamage);
-                Console.WriteLine($"\nYour parameters for {name} have been swapped to match minimum to minimum damage and maximum to maximum one.");
+                Console.WriteLine($"\nYour parameters for {Name} have been swapped to match minimum to minimum damage and maximum to maximum one.");
             }
 
             if (minDamage < 1) 

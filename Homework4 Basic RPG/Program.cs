@@ -172,11 +172,11 @@
     // Unit stats
     public class Unit
     {
-        string name;
-        float health;
-        float realHealth;
-        float baseDamage = 5;
-        float baseArmor = 0f;
+        public string name;
+        public float health;
+        public float realHealth;
+        public float baseDamage = 5;
+        public float baseArmor = 0f;
         private Armor.Helm _helm;
         private Armor.Shell _shell;
         private Armor.Boots _boots;
@@ -194,6 +194,10 @@
         }
 
         // Getting variables from outside
+        public Unit()
+        {
+            this.name = "Unknown Unit";
+        }
         public Unit(string name = "Unknown Unit", float health = 10f)
         {
             this.name = name;

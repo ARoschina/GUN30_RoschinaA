@@ -19,20 +19,22 @@ namespace Homework4_Basic_RPG
             public float Defence
             {
                 get => defence;
-                set => defence = value;
+                set
+                {
+                    defence = value;
+                    if (defence < 0)
+                    {
+                        defence = 0;
+                    }
+                    else if (defence > 1)
+                    {
+                        defence = 1;
+                    }
+                }
             }
 
             public Helm(string name, float defence)
-            {
-                if (defence < 0)
-                {
-                    defence = 0;
-                }
-                else if (defence > 1)
-                {
-                    defence = 1;
-                }
-
+            {   
                 this.defence = defence;
             }
         }
@@ -50,20 +52,22 @@ namespace Homework4_Basic_RPG
             public float Defence
             {
                 get => defence;
-                set => defence = value;
+                set
+                {
+                    defence = value;
+                    if (defence < 0)
+                    {
+                        defence = 0;
+                    }
+                    else if (defence > 1)
+                    {
+                        defence = 1;
+                    }
+                }
             }
 
             public Shell(string name, float defence)
-            {
-                if (defence < 0)
-                {
-                    defence = 0;
-                }
-                else if (defence > 1)
-                {
-                    defence = 1;
-                }
-
+            {                
                 this.defence = defence;
             }
         }
@@ -81,20 +85,22 @@ namespace Homework4_Basic_RPG
             public float Defence
             {
                 get => defence;
-                set => defence = value;
+                set
+                {
+                    defence = value;
+                    if (defence < 0)
+                    {
+                        defence = 0;
+                    }
+                    else if (defence > 1)
+                    {
+                        defence = 1;
+                    }
+                }
             }
 
             public Boots(string name, float defence)
-            {
-                if (defence < 0)
-                {
-                    defence = 0;
-                }
-                else if (defence > 1)
-                {
-                    defence = 1;
-                }
-
+            {                
                 this.defence = defence;
             }
         }

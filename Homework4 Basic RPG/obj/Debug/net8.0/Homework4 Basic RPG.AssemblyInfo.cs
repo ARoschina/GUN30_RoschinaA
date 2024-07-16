@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Homework4 Basic RPG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f2d7e9caa0a20c4938ba168a6831d8be7c1d686")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+815ede22e3a2ec12ce19094393e7327092d64343")]
 [assembly: System.Reflection.AssemblyProductAttribute("Homework4 Basic RPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Homework4 Basic RPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

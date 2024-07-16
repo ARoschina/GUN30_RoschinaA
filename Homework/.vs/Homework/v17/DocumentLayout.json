@@ -19,12 +19,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -33,7 +29,7 @@
               "RelativeDocumentMoniker": "..\\Homework4 Basic RPG\\Program.cs",
               "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Program.cs",
               "RelativeToolTip": "..\\Homework4 Basic RPG\\Program.cs",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAAwNgAAAAxAAAA",
+              "ViewState": "AQIAALYAAAAAAAAAAAAYwMsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T11:21:01.687Z",
               "EditorCaption": ""
@@ -46,7 +42,7 @@
               "RelativeDocumentMoniker": "..\\Homework4 Basic RPG\\Armor.cs",
               "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Armor.cs",
               "RelativeToolTip": "..\\Homework4 Basic RPG\\Armor.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAADwv2UAAAABAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwGEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T11:34:00.062Z",
               "EditorCaption": ""
@@ -59,7 +55,7 @@
               "RelativeDocumentMoniker": "..\\Homework4 Basic RPG\\Weapon.cs",
               "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Weapon.cs",
               "RelativeToolTip": "..\\Homework4 Basic RPG\\Weapon.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBUAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T11:20:08.276Z",
               "EditorCaption": ""
