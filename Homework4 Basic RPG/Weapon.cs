@@ -8,9 +8,9 @@ namespace Homework4_Basic_RPG
             get; 
             private set; 
         }
-        public float minDamage;
-        public float maxDamage;
-        public float damage;
+        private float minDamage;
+        private float maxDamage;
+        private float damage;
 
         public Weapon(string name)
         {

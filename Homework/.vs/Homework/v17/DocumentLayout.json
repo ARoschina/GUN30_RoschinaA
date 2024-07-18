@@ -6,10 +6,10 @@
       "AbsoluteMoniker": "D:0:0:{46A2463C-8E85-4543-A9D0-B0AC7CA830BC}|..\\Homework4 Basic RPG\\Homework4 Basic RPG.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework4 basic rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A2463C-8E85-4543-A9D0-B0AC7CA830BC}|..\\Homework4 Basic RPG\\Homework4 Basic RPG.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework4 basic rpg\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46A2463C-8E85-4543-A9D0-B0AC7CA830BC}|..\\Homework4 Basic RPG\\Homework4 Basic RPG.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework4 basic rpg\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A2463C-8E85-4543-A9D0-B0AC7CA830BC}|..\\Homework4 Basic RPG\\Homework4 Basic RPG.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework4 basic rpg\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46A2463C-8E85-4543-A9D0-B0AC7CA830BC}|..\\Homework4 Basic RPG\\Homework4 Basic RPG.csproj|d:\\neto\\c# course\\gun30_roschinaa\\homework4 basic rpg\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,33 +29,33 @@
               "RelativeDocumentMoniker": "..\\Homework4 Basic RPG\\Program.cs",
               "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Program.cs",
               "RelativeToolTip": "..\\Homework4 Basic RPG\\Program.cs",
-              "ViewState": "AQIAALYAAAAAAAAAAAAYwMsAAAAhAAAA",
+              "ViewState": "AQIAALgAAAAAAAAAAAA3wLAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T11:21:01.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Armor.cs",
               "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Armor.cs",
               "RelativeDocumentMoniker": "..\\Homework4 Basic RPG\\Armor.cs",
               "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Armor.cs",
               "RelativeToolTip": "..\\Homework4 Basic RPG\\Armor.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwGEAAAAVAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T11:34:00.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Weapon.cs",
               "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Weapon.cs",
               "RelativeDocumentMoniker": "..\\Homework4 Basic RPG\\Weapon.cs",
               "ToolTip": "D:\\Neto\\C# Course\\GUN30_RoschinaA\\Homework4 Basic RPG\\Weapon.cs",
               "RelativeToolTip": "..\\Homework4 Basic RPG\\Weapon.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCcAAAA8AAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T11:20:08.276Z",
               "EditorCaption": ""

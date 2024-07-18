@@ -172,11 +172,11 @@
     // Unit stats
     public class Unit
     {
-        public string name;
-        public float health;
-        public float realHealth;
-        public float baseDamage = 5;
-        public float baseArmor = 0f;
+        private string name;
+        private float health;
+        private float realHealth;
+        private float baseDamage = 5;
+        private float baseArmor = 0f;
         private Armor.Helm _helm;
         private Armor.Shell _shell;
         private Armor.Boots _boots;
