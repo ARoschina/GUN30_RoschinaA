@@ -11,7 +11,7 @@
         {
             arrayA1[i] = arrayA1[i - 1] + arrayA1[i - 2];
         }
-
+        
         Console.WriteLine("Fibonacci arrayA1:");
         for (int i = 0; i < arrayA1.Length; i++)
         {
@@ -49,6 +49,7 @@
             {
                 Console.WriteLine(arrayA3[i,j]);
             }
+            Console.Write("\n");
         }
 
         // Task 4

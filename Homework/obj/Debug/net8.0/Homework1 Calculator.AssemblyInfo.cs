@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Homework1 Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f2d7e9caa0a20c4938ba168a6831d8be7c1d686")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5fc37580086b3af5d23a811ad9a2007977a8b97")]
 [assembly: System.Reflection.AssemblyProductAttribute("Homework1 Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Homework1 Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

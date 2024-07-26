@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework2 Arrays", "..\Home
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework3 Cycles", "..\Homework3 Cycles\Homework3 Cycles.csproj", "{19F445FB-EE5F-48D4-A5C3-93C5B4ED7A8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework4 Basic RPG", "..\Homework4 Basic RPG\Homework4 Basic RPG.csproj", "{46A2463C-8E85-4543-A9D0-B0AC7CA830BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework4 Basic RPG", "..\Homework4 Basic RPG\Homework4 Basic RPG.csproj", "{46A2463C-8E85-4543-A9D0-B0AC7CA830BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
